@@ -1,12 +1,10 @@
-package com.example.ProjectCourse1.Service;
+package com.example.Projectcourse.Service;
 
-import com.example.ProjectCourse1.Model.CourseModel;
-import com.example.ProjectCourse1.Repository.CourseRepository;
+import com.example.Projectcourse.Model.CourseModel;
+import com.example.Projectcourse.Repository.CourseRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.springframework.web.multipart.MultipartFile;
 
-import java.io.IOException;
 import java.util.List;
 
 @Service
